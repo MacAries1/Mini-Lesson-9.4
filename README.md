@@ -1,4 +1,6 @@
 # Header - README Template.
+<img src="https://cdn2.iconfinder.com/data/icons/text-file-extension-line/64/TEXT_FILE_EXTENSION_README-206.png" alt="Github Logo - html" title="Github Logo - html" />  
+
 >## Table of Contents. 
 * [About the Project](#about_the_project)
 * [Tools](#tools)
